@@ -1,0 +1,11 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Lee.moc3",
+		"Textures": [
+			"Lee.2048/texture_00.png"
+		],
+		"DisplayInfo": "Lee.cdi3.json"
+	},
+	"HitAreas": []
+}
